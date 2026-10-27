@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CashDro is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://cashdro.com/
+CashDro provides smart cash drawer solutions for businesses, offering secure cash management, card payment integration, and self‑service kiosks. Their products include CashDro7, CashDro5, CashDro4+, and CashDro S, catering to retail, hospitality, and other sectors with hardware and software that ensure safe, efficient cash handling.
+
+**Areas:** Company · FinTech · Cash Management · Retail · Hardware
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cashdro.com/)
+- [Documentation](https://www.cashdro.com/)
+- [Terms of service](https://www.cashdro.com/en/aviso-legal)
+- [Privacy policy](https://www.cashdro.com/en/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/cashdro/](https://apis.io/providers/cashdro/).
